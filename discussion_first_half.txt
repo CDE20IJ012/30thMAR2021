@@ -1,0 +1,55 @@
+1) Should be able to design simple components or refactoring existing components by applying design principles
+   and design patterns.
+2) Should be able to write DAO layer with ORM concepts using Hibernate,Spring DATA JPA.
+3) Should be able to apply the concepts of mapping in Spring Data JPA.
+4) Should be able to apply the concepts of Persistent Objects, HQL in Spring DATA JPA.
+5) Should be able to use LOMBOK.
+6) Should be able to use SONAR for analysing source code and fix the issues.
+7) Should be able to configure SONAR using MAVEN.
+8) Should be able to design web pages using RWD principles.
+9) Should be able to apply simple problems using alogorithms and simple data
+structure.
+=================================================================================================
+STAGE4
+Webservices and Cloud
+1) Should be able to develop a simple REST web service using Spring Boot.
+2) Should be able to demonstrate the concepts of spring boot, components of RESTful web services 
+and REST fundamentals.
+
+
+
+
+The term Web service (WS) is either:
+
+a service offered by an electronic device to another electronic device, communicating with each other via the World Wide Web, or
+a server running on a computer device, listening for requests at a particular port over a network, serving web documents (HTML, JSON, XML, images), and creating[clarification needed] web applications services, which serve in solving specific domain problems over the Web (WWW, Internet, HTTP)
+In a Web service a Web technology such as HTTP is used for transferring machine-readable file formats such as XML and JSON.
+
+In practice, a web service commonly provides and viewed an object-oriented Web-based interface to a database server, utilized for example by another Web server, or by a mobile app, that provides a user interface to the end-user. Many organizations that provide data in formatted HTML pages will also provide that data on their server as XML or JSON,
+
+https://en.wikipedia.org/wiki/Cloud_computing  
+
+Cloud computing[1] is the on-demand availability of computer system resources, especially data storage (cloud storage) and computing power, without direct active management by the user.[2] The term is generally used to describe data centers available to many users over the Internet.[3] Large clouds, predominant today, often have functions distributed over multiple locations from central servers. If the connection to the user is relatively close, it may be designated an edge server.
+
+Clouds may be limited to a single organization (enterprise clouds[4][5]), or be available to multiple organizations (public cloud).
+
+Cloud computing relies on sharing of resources to achieve coherence and economies of scale.
+
+Advocates of public and hybrid clouds note that cloud computing allows companies to avoid or minimize up-front IT infrastructure costs. Proponents also claim that cloud computing allows enterprises to get their applications up and running faster, with improved manageability and less maintenance, and that it enables IT teams to more rapidly adjust resources to meet fluctuating and unpredictable demand,[5][6][7] providing the burst computing capability: high computing power at certain periods of peak demand.[8]
+
+Cloud providers typically use a "pay-as-you-go" model, which can lead to unexpected operating expenses if administrators are not familiarized with cloud-pricing models.[9]
+
+The availability of high-capacity networks, low-cost computers and storage devices as well as the widespread adoption of hardware virtualization, service-oriented architecture and autonomic and utility computing has led to growth in cloud computing.[10][11][12] By 2019, Linux was the most widely used operating system, including in Microsoft's offerings and is thus described as dominant.[13]
+
+-------------------------------------------------------------------------------------------
+
+Representational state transfer (REST) is a software architectural style which uses a subset of HTTP.[1] It is commonly used to create interactive applications that use Web services. A Web service that follows these guidelines is called RESTful. Such a Web service must provide its Web resources in a textual representation and allow them to be read and modified with a stateless protocol and a predefined set of operations. This approach allows interoperability between the computer systems on the Internet that provide these services. REST is an alternative to, for example, SOAP as way to access a Web service
+
+
+-------------------------------------------------------------------------------------------------------------
+Let us look at a demo of simple RESTful webservice with Spring Boot.
+---------------------------------------------------------------------------------------------------------------
+
+POSTMAN installationhttps://www.postman.com/api-platform/
+
+
